@@ -34,7 +34,6 @@ public class App {
                 resul = oper.dividir();
                 break;
         }
-
         System.out.println("El resultado de la operación es: " + resul);
     }
 }
